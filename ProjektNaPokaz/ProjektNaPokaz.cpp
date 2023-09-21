@@ -9,6 +9,7 @@ int main()
     for (int i = 0; i < 10; i++)
         cout << i + 1 << endl;
     std::cout << "Witaj swiecie!\n";
+    cout << "Powrót do galezi pierwotnej" << endl;
 }
 
 // Uruchomienie programu: Ctrl + F5 lub menu Debugowanie > Uruchom bez debugowania
