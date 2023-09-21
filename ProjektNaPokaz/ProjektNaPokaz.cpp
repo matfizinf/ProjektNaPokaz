@@ -6,8 +6,6 @@ using namespace std;
 
 int main()
 {
-    for (int i = 0; i < 10; i++)
-        cout << i + 1 << endl;
     std::cout << "Witaj swiecie!\n";
     cout << "Jestem w nowej galezi" << endl;
 }
